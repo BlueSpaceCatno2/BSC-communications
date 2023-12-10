@@ -1,0 +1,15 @@
+C:\WebCHAT\WebCHAT\bin\Release\net6.0\WebCHAT.exe
+C:\WebCHAT\WebCHAT\bin\Release\net6.0\WebCHAT.deps.json
+C:\WebCHAT\WebCHAT\bin\Release\net6.0\WebCHAT.runtimeconfig.json
+C:\WebCHAT\WebCHAT\bin\Release\net6.0\WebCHAT.dll
+C:\WebCHAT\WebCHAT\bin\Release\net6.0\WebCHAT.pdb
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.csproj.AssemblyReference.cache
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.AssemblyInfoInputs.cache
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.AssemblyInfo.cs
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.csproj.CoreCompileInputs.cache
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.dll
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\refint\WebCHAT.dll
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.pdb
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\WebCHAT.genruntimeconfig.cache
+C:\WebCHAT\WebCHAT\obj\Release\net6.0\ref\WebCHAT.dll

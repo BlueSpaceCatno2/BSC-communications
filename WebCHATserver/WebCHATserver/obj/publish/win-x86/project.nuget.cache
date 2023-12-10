@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1F2TGpJ4Ru5kvEd5p/A8+/7p7pTCw4vdKSLq6b1ly3jTFIzGK94mqMjlvIwyZCl1EiezU+W4LxPF2D+5Vu0iOA==",
+  "success": true,
+  "projectFilePath": "C:\\WebCHATserver\\WebCHATserver\\WebCHATserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.20\\microsoft.netcore.app.runtime.win-x86.6.0.20.nupkg.sha512",
+    "C:\\Users\\khan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.20.nupkg.sha512",
+    "C:\\Users\\khan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.20\\microsoft.aspnetcore.app.runtime.win-x86.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
